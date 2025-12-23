@@ -1,0 +1,7 @@
+Sentiment and Emotion Analysis Dataset:
+https://www.kaggle.com/datasets/kushagra3204/sentiment-and-emotion-analysis-dataset
+
+Youtube Statistics:  A value of 0 represents a negative sentiment, while values of 1 or 2 represent neutral and positive sentiments respectively.
+https://www.kaggle.com/datasets/advaypatil/youtube-statistics
+
+The final dataset we made in the code for training the model purpose

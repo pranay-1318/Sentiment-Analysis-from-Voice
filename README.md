@@ -11,7 +11,7 @@ I collected two relevant datasets from Kaggle, extracted the most important feat
 The dataset was preprocessed using NLP techniques such as text cleaning, stopword removal, and normalization.
 After preprocessing, a TF-IDF vectorization technique was applied to convert textual data into numerical feature vectors.
 
-3. Model Training
+3. Model Training:
 A machine learning model was trained for multi-class sentiment classification using LinearSVC.
 The trained sentiment classification model and the TF-IDF vectorizer were saved as serialized files:
 - emotion_model.pkl
@@ -39,5 +39,5 @@ User can do:
 Projec do:
 - Speech-to-text conversion
 - Multi-class sentiment classification then choose one sentiment (happy, sad, angry, neutral)
-- Confidence score for predictions
+- Confidence score display
 - Deployed using Streamlit
